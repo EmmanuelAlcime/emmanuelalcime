@@ -44,6 +44,6 @@ I am a **highly skilled software developer** with **10 years of experience** in 
 ### 📫 **Contact Me**
 📧 Email: [emmanuelalcime54@gmail.com](mailto:emmanuelalcime54@gmail.com)  
 🔗 LinkedIn: [https://www.linkedin.com/in/emmanuel-alcime-564178209/](https://www.linkedin.com/in/emmanuel-alcime-564178209/)  
-💼 Portfolio: [https://emmanuelalcime.github.io/my_portfolio/projects]  
+💼 Portfolio: [https://emmanuelalcime.github.io/my_portfolio/]  
 
 🚀 **Let’s Build Something Great!**
